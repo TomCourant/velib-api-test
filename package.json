@@ -1,5 +1,5 @@
 {
-  "name": "velib-api",
+  "name": "velib-api-test",
   "version": "1.0.0",
   "description": "Liste les stations velib de paris",
   "main": "server.js",
@@ -17,5 +17,9 @@
     "node": "5.5.0"
   },
   "author": "Tom Courant",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TomCourant/velib-api-test.git"
+  },
   "license": "MIT"
 }
