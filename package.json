@@ -1,0 +1,21 @@
+{
+  "name": "velib-api",
+  "version": "1.0.0",
+  "description": "Liste les stations velib de paris",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "morgan": "^1.7.0",
+    "request": "^2.69.0",
+    "socket.io": "^1.4.5"
+  },
+  "engines": {
+    "node": "5.5.0"
+  },
+  "author": "Tom Courant",
+  "license": "MIT"
+}
